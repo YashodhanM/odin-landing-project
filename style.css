@@ -115,6 +115,8 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .info-heading{
@@ -129,5 +131,24 @@ body{
 .info-and-images{
     text-align: center;
     width: 200px;
+}
+
+.quote{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.inspiring-quote{
+    align-self: center;
+    width: 800px;
+}
+
+.author{
+    width: 800px;
+    align-self: flex-end;
 }
 
