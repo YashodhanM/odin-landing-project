@@ -59,3 +59,13 @@ img{
     font-weight: 300;
     font-style: italic;
 }
+
+.action{
+    background-color: #3882F6;
+    color: white;
+}
+
+.button-2{
+    border-color: white;
+}
+
