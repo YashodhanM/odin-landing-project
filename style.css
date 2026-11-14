@@ -125,3 +125,9 @@ body{
     display: flex;
     gap: 20px;
 }
+
+.info-and-images{
+    text-align: center;
+    width: 200px;
+}
+
