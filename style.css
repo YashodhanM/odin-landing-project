@@ -72,6 +72,12 @@ img{
 .action{
     background-color: #3882F6;
     color: white;
+    border-radius: 10px;
+}
+
+.action-main{
+    font-weight: bold;
+    font-size: 23px;
 }
 
 .button-2{
@@ -152,3 +158,10 @@ body{
     align-self: flex-end;
 }
 
+.action{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 30px 100px 30px 100px;
+    padding: 30px 100px 30px 100px;
+}
